@@ -1,0 +1,38 @@
+[
+    {
+        "id_usuario": "USR-ADMIN",
+        "username": "admin",
+        "password": "admin123",
+        "nombre": "Administrador General",
+        "rol": "administrador",
+        "activo": true,
+        "mfa_habilitado": false
+    },
+    {
+        "id_usuario": "USR-REC-001",
+        "username": "recepcion",
+        "password": "recepcion123",
+        "nombre": "Recepcionista",
+        "rol": "recepcionista",
+        "activo": true,
+        "mfa_habilitado": false
+    },
+    {
+        "id_usuario": "USR-ODO-001",
+        "username": "doctor",
+        "password": "doctor123",
+        "nombre": "Dr. Sofía Herrera",
+        "rol": "odontologo",
+        "activo": true,
+        "mfa_habilitado": true
+    },
+    {
+        "id_usuario": "USR-GER-001",
+        "username": "gerencia",
+        "password": "gerencia123",
+        "nombre": "Gerencia",
+        "rol": "gerente",
+        "activo": true,
+        "mfa_habilitado": true
+    }
+]

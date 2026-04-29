@@ -1,0 +1,10 @@
+# Extensiones de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Base de datos local (se genera al ejecutar)
+data//

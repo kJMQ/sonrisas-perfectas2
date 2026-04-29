@@ -1,0 +1,12 @@
+[
+    {
+        "id_cita": "CITA-DEMO-001",
+        "documento_paciente": "18266489374",
+        "nombre_paciente": "María González",
+        "fecha": "2026-05-12",
+        "hora": "18:30",
+        "motivo": "Limpieza general",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    }
+]

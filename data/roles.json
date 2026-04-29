@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "administrador",
+        "permisos": ["pacientes", "citas", "historial", "facturacion", "reportes", "notificaciones", "seguridad"],
+        "descripcion": "Acceso completo a la operación académica."
+    },
+    {
+        "nombre": "recepcionista",
+        "permisos": ["pacientes", "citas", "facturacion", "notificaciones"],
+        "descripcion": "Gestiona agenda, pacientes y cobros básicos."
+    },
+    {
+        "nombre": "odontologo",
+        "permisos": ["pacientes", "citas", "historial", "reportes"],
+        "descripcion": "Consulta agenda y actualiza historial clínico."
+    },
+    {
+        "nombre": "gerente",
+        "permisos": ["reportes", "seguridad"],
+        "descripcion": "Consulta reportes y administra respaldos."
+    }
+]

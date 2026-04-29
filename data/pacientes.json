@@ -1,0 +1,18 @@
+[
+    {
+        "documento": "18266489374",
+        "nombre": "María González",
+        "telefono": "3163485380",
+        "correo": "maria.gonzalez@example.com",
+        "direccion": "Calle 10 # 22-31",
+        "historial": []
+    },
+    {
+        "documento": "12647836493",
+        "nombre": "José Ramírez",
+        "telefono": "3125648590",
+        "correo": "jose.ramirez@example.com",
+        "direccion": "Carrera 15 # 8-44",
+        "historial": []
+    }
+]
